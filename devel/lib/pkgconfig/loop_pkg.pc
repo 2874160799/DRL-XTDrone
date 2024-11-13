@@ -1,0 +1,1 @@
+/home/ubuntu/lyl/catkin_uav_ws/devel/.private/loop_pkg/lib/pkgconfig/loop_pkg.pc

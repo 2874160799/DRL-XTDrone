@@ -1,0 +1,1 @@
+/home/ubuntu/lyl/catkin_uav_ws/devel/.private/catkin_tools_prebuild/setup.bash

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/lyl/catkin_uav_ws/devel/.private/loop_pkg/setup.sh

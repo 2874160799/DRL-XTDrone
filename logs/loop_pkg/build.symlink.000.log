@@ -1,0 +1,3 @@
+Symlinking /home/ubuntu/lyl/catkin_uav_ws/devel/lib/pkgconfig/loop_pkg.pc
+Symlinking /home/ubuntu/lyl/catkin_uav_ws/devel/share/loop_pkg/cmake/loop_pkgConfig-version.cmake
+Symlinking /home/ubuntu/lyl/catkin_uav_ws/devel/share/loop_pkg/cmake/loop_pkgConfig.cmake

@@ -1,0 +1,6 @@
+devel_space: /home/ubuntu/lyl/catkin_uav_ws/devel
+install: false
+install_space: /home/ubuntu/lyl/catkin_uav_ws/install
+profile: default
+source_space: /home/ubuntu/lyl/catkin_uav_ws/src
+workspace: /home/ubuntu/lyl/catkin_uav_ws

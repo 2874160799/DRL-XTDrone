@@ -1,0 +1,41 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ubuntu/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ubuntu/catkin_ws/src/A-LOAM/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/bspline_opt/include/**",
+        "/home/ubuntu/catkin_ws/src/VINS-Fusion/camera_models/include/**",
+        "/home/ubuntu/catkin_ws/src/catvehicle/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/drone_detect/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/plan_manage/include/**",
+        "/home/ubuntu/catkin_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/ubuntu/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/ubuntu/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+        "/home/ubuntu/lyl/catkin_uav_ws/src/loop_pkg/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/Utils/multi_map_server/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/path_searching/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/plan_env/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/Utils/pose_utils/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/Utils/quadrotor_msgs/include/**",
+        "/home/ubuntu/catkin_ws/src/sicktoolbox/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/traj_utils/include/**",
+        "/home/ubuntu/catkin_ws/src/ego_planner/Utils/uav_utils/include/**",
+        "/home/ubuntu/catkin_ws/src/velodyne_gazebo_plugins/include/**",
+        "/home/ubuntu/catkin_ws/src/waterplus_map_tools/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

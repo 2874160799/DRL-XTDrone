@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/lyl/catkin_uav_ws/devel/.private/loop_pkg
+
+Name: loop_pkg
+Description: Description of loop_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy move_base_msgs visualization_msgs gazebo_msgs geometry_msgs nav_msgs std_msgs
